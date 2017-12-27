@@ -30,6 +30,7 @@
                 $flag = 0;
                 $dictionary = array(
                         "hello"=>"xin chào",
+                        "world"=>"thế giới",
                         "how"=>"thế nào",
                         "book"=>"quyển vở",
                         "computer"=>"máy tính");
